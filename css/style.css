@@ -1,0 +1,71 @@
+html{
+     background-color: ffffff;
+     width: 60%;
+     margin: 0 auto;
+     cursor: url('https://web.archive.org/web/20091027093858/http://geocities.com/kfzhouy/Politics/finger1.gif'), auto;
+     text-align: justify;
+}
+/*Ik kan ook het font veranderen maar ik vond het niet nodig voor deze 90's website*/
+nav{
+     background-color: #66ff00;
+     overflow: hidden;
+     position: relative;
+     border-style: none none double none;
+}
+nav .bottom{
+     position: absolute;
+     bottom: -4px;
+     right: 10%;
+}
+nav .top{
+     position: absolute;
+     top: 0px;
+     right: 0px;
+}
+a{
+     cursor: url('https://web.archive.org/web/20091028101738/http://www.geocities.com/willemfh/dsl/hand.gif'), auto;
+}
+h2{
+     font-size:1.2em;
+     margin-top: 30px;
+}
+ol li{
+     margin: 10px;
+}
+#profielfoto{
+     width: 35%;
+}
+.floatright{
+     float: right;
+}
+.floatleft{
+     float: left;
+}
+.center{
+     display: block;
+     margin: auto;
+}
+.paddingleft{
+     padding-left: 10px;
+}
+.paddingright{
+     padding-right: 10px;
+}
+#mirror{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  width: 8%;
+}
+span{
+     color: red;
+}
+footer{
+     padding-top: 20px;
+     border-style: double none none none;
+}
+footer p{
+     display: inline;
+}
+footer img{
+     padding: 0 10px 0 0;
+}
