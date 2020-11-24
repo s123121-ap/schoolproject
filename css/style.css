@@ -23,6 +23,13 @@ h1{
      font-size: 3rem;
      padding-top: 48vh;
 }
+div p{
+     padding: 10vh;
+}
+a{
+     color: red;
+     text-decoration: none;
+}
 #first{
      text-align: center;
 }
@@ -31,9 +38,5 @@ h1{
 }
 #second{
      background-color: #2d313c;
-}
-a{
-     color: red;
-     text-decoration: none;
 }
 /*smoothscroll*/
