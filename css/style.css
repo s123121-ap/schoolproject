@@ -13,14 +13,24 @@ div{
      /*background-color: #2d313c;*/
      /*color: #a8adba;*/
 }
-div:nth-child(2){
-     background-color: #2d313c;
-}
-h1{
-     font-size: 3rem;
-     text-align: center;
-     padding-top: 48vh;
-}
 p{
      font-size: 1rem;
 }
+h1{
+     font-size: 3rem;
+     padding-top: 48vh;
+}
+#first{
+     text-align: center;
+}
+#first p{
+     padding: 10px;
+}
+#second{
+     background-color: #2d313c;
+}
+a{
+     color: red;
+     text-decoration: none;
+}
+/*smoothscroll*/
