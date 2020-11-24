@@ -1,16 +1,26 @@
+:root{
+     font-size: 100%
+}
 body{
-  background-color: #292c34;
-  color: #a8adba;
+     background-color: #f8f7f5;
+     height 100vh;
+     font-family: 'Quicksand', sans-serif;
+     color: white; /*color: #0f1012;*/
+}
+div{
+     height: 100vh;
+     background-color: #292c34;
+     /*background-color: #2d313c;*/
+     /*color: #a8adba;*/
+}
+div:nth-child(2){
+     background-color: #2d313c;
 }
 h1{
-	text-align: center;
-	font-weight: normal;
-	text-transform: uppercase;
-	border-bottom: 2px solid white;
-	color: white;
-  background-color: #2d313c;
+     font-size: 3rem;
+     text-align: center;
+     padding-top: 48vh;
 }
-h2{
-	color: #7B97B0;
-     background-color: #2d313c;
+p{
+     font-size: 1rem;
 }
